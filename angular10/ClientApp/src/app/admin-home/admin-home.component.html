@@ -1,0 +1,31 @@
+<h2>This is Admin home page</h2>
+<br />
+<div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Stt</th>
+        <th width="100px"></th>
+        <th>first name</th>
+        <th>username</th>
+        <th>password</th>
+        <th>user type</th>
+        <th></th>
+      </tr>
+
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of arrUser; let i = index">
+        <td>{{i}}</td>
+        <td><img width="90" src="{{item.avatar}}" onerror="this.src='/assets/images/images.png';" /></td>
+        <td>{{item.firstName}}</td>
+        <td>{{item.userName}}</td>
+        <td>{{item.password}}</td>
+        <td>{{item.userType}}</td>
+        <td>
+          <a (click)="editUser(item)" class="btn btn-primary text-white">Edit</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

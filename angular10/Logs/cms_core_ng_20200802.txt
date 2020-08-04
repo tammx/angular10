@@ -1,0 +1,183 @@
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 9:27:44 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+elapsed : "32"
+parameters : ""
+commandType : Text
+commandTimeout : 30
+newLine : "
+"
+commandText : "CREATE TABLE [Users] (
+    [UserName] nvarchar(450) NOT NULL,
+    [FirstName] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    [UserType] nvarchar(max) NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([UserName])
+);"
+EventId : { Id: 20102, Name: "Microsoft.EntityFrameworkCore.Database.Command.CommandError" }
+SourceContext : "Microsoft.EntityFrameworkCore.Database.Command"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9456
+ProcessName : "dotnet"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:10:34 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 17088
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:10 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:24 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:24 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:24 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:45 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:19:45 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:20:03 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:20:03 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:20:34 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:20:34 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 9312
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 8/2/2020 10:35:16 PM +07:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "angular10"
+MachineName : "DESKTOP-2DFTBGO"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.3"
+UserName : "XuanTam"
+ProcessId : 3196
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
